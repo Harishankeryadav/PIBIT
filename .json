@@ -1,0 +1,44 @@
+{
+    "contact_information": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": ""
+    },
+    "summary": "",
+    "experience": [
+      {
+        "job_title": "",
+        "company": "",
+        "location": "",
+        "start_date": "",
+        "end_date": "",
+        "responsibilities": [""]
+      }
+    ],
+    "education": [
+      {
+        "degree": "",
+        "institution": "",
+        "location": "",
+        "graduation_date": ""
+      }
+    ],
+    "skills": [""],
+    "certifications": [
+      {
+        "name": "",
+        "issuing_organization": "",
+        "date": ""
+      }
+    ],
+    "projects": [
+      {
+        "title": "",
+        "description": "",
+        "technologies": [""]
+      }
+    ],
+    "languages": [""]
+  }
+  
